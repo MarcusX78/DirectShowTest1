@@ -1,0 +1,10 @@
+E:\microprojekte\MD5Tool\DirectShowTest1\DirectShowTest1\bin\Debug\DirectShowTest1.exe.config
+C:\Users\Marc Vahldieck\Desktop\DirectShowTest1\DirectShowTest1\bin\Debug\DirectShowTest1.exe.config
+C:\Users\Marc Vahldieck\Desktop\DirectShowTest1\DirectShowTest1\bin\Debug\DirectShowTest1.exe
+C:\Users\Marc Vahldieck\Desktop\DirectShowTest1\DirectShowTest1\bin\Debug\DirectShowTest1.pdb
+C:\Users\Marc Vahldieck\Desktop\DirectShowTest1\DirectShowTest1\obj\Debug\DirectShowTest1.csprojResolveAssemblyReference.cache
+C:\Users\Marc Vahldieck\Desktop\DirectShowTest1\DirectShowTest1\obj\Debug\DirectShowTest1.Properties.Resources.resources
+C:\Users\Marc Vahldieck\Desktop\DirectShowTest1\DirectShowTest1\obj\Debug\DirectShowTest1.csproj.GenerateResource.Cache
+C:\Users\Marc Vahldieck\Desktop\DirectShowTest1\DirectShowTest1\obj\Debug\DirectShowTest1.exe
+C:\Users\Marc Vahldieck\Desktop\DirectShowTest1\DirectShowTest1\obj\Debug\DirectShowTest1.pdb
+C:\Users\Marc Vahldieck\Desktop\DirectShowTest1\DirectShowTest1\obj\Debug\DirectShowTest1.Form1.resources
